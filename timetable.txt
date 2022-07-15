@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<table border = "px" width="60%" cellspacing="0px" cellpadding="0px" bgcolor = "yellow" align="center">
+<tr align = "center">
+	<th>Time</th>
+	<th>Monday</th>
+	<th>Tuesday</th>
+	<th>Wednesday</th>
+	<th>Thursday</th>
+	<th>Friday</th>
+	<th>Saturday</th>
+</tr>
+<tr align = "center">
+	<td>10-11</td>
+	<td>DAA</td>
+	<td>PLP</td>
+	<td>DAA</td>
+	<td>ML</td>
+	<td>SF</td>
+	<td rowspan = 3>Lab</td>
+</tr>
+<tr align = "center">
+	<td>10-11</td>
+	<td>DAA</td>
+	<td>PLP</td>
+	<td>DAA</td>
+	<td>ML</td>
+	<td>SF</td>
+</tr>
+<tr align = "center">
+	<td>10-11</td>
+	<td>DAA</td>
+	<td>PLP</td>
+	<td>DAA</td>
+	<td>ML</td>
+	<td>SF</td>
+</tr>
+<tr align = "center">
+	<td colspan = "8">Break</td>
+</tr>
+<tr align = "center">
+	<td>10-11</td>
+	<td>DAA</td>
+	<td>PLP</td>
+	<td>DAA</td>
+	<td>ML</td>
+	<td>SF</td>
+	<td rowspan = 2>Lab</td>
+</tr>
+<tr align = "center">
+	<td>10-11</td>
+	<td>DAA</td>
+	<td>PLP</td>
+	<td>DAA</td>
+	<td>ML</td>
+	<td>SF</td>
+</tr>
